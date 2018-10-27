@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1540514875 source:c:\users\nayera hatem\desktop\simple shell\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+
